@@ -95,7 +95,7 @@ plt.title('Distribuição de Viagens por Dia da Semana')
 plt.show()
 ```
 
-![01](https://github.com/user-attachments/assets/57e922e3-1421-45da-ae57-88e8010586f9)
+![01](https://github.com/user-attachments/assets/3851d0d6-b385-4b9d-8208-6459c5682d0b)
 
 <hr>
 
