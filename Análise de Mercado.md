@@ -66,6 +66,8 @@
       <th>% de Viagens</th>
       <th>Principais Rotas</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>Mounting Bracket / Fuel Tank</td>
       <td>ZB Model Plate</td>
