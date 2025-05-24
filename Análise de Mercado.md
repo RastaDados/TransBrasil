@@ -25,9 +25,9 @@
   <tbody>
     <tr>
       <td>Chennai > Hosur</td>
-      <td>Kanchipuram > Kanchipuram (local)</td>
-      <td>Pondicherry > Chennai</td>
-      <td>Gurgaon > Ahmedabad</td>
+      <td>20%</td>
+      <td>320 km</td>
+      <td>35%</td>
     </tr>
     <tr>
       <td>20%</td>
@@ -59,7 +59,7 @@
 
 #### Materiais Mais Transportados
 
-<table>
+<table border="1">
   <thead>
     <tr>
       <th>Material</th>
@@ -69,19 +69,23 @@
   </thead>
   <tbody>
     <tr>
-      <td>Mounting Bracket / Fuel Tank</td>
+      <td>Mounting Bracket</td>
+      <td>15%</td>
       <td>ZB Model Plate</td>
-      <td>LU Clutch Plate</td>
-      <td>Empty Bin</td>
     </tr>
     <tr>
-      <td>15%</td>
+      <td>Fuel Tank</td>
       <td>10%</td>
-      <td>8%</td>
+      <td>LU Clutch Plate</td>
+    </tr>
+    <tr>
+      <td>Empty Bin</td>
       <td>12%</td>
+      <td>–</td> <!-- Caso não tenha rota principal -->
     </tr>
   </tbody>
 </table>
+
 
 <b>Oportunidade:</b>
 
