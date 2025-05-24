@@ -30,21 +30,21 @@
       <td>35%</td>
     </tr>
     <tr>
-      <td>20%</td>
+      <td>Kanchipuram → Kanchipuram</td>
       <td>15%</td>
-      <td>12%</td>
-      <td>8%</td>
-    </tr>
-    <tr>
-      <td>320 km</td>
       <td>21 km</td>
-      <td>170 km</td>
-      <td>950 km</td>
+      <td>5%</td>
     </tr>
     <tr>
-      <td>35%</td>
-      <td>5%</td>
+      <td>Pondicherry > Chennai</td>
+      <td>12%</td>
+      <td>170 km</td>
       <td>25%</td>
+    </tr>
+    <tr>
+      <td>Gurgaon → Ahmedabad</td>
+      <td>8%</td>
+      <td>950 km</td>
       <td>45%</td>
     </tr>
   </tbody>
@@ -59,7 +59,7 @@
 
 #### Materiais Mais Transportados
 
-<table border="1">
+<table>
   <thead>
     <tr>
       <th>Material</th>
@@ -71,17 +71,22 @@
     <tr>
       <td>Mounting Bracket</td>
       <td>15%</td>
+      <td>Chennai > Hosur</td>
+    </tr>
+    <tr>
       <td>ZB Model Plate</td>
-    </tr>
-    <tr>
-      <td>Fuel Tank</td>
       <td>10%</td>
-      <td>LU Clutch Plate</td>
+      <td>Kanchipuram > Kanchipuram</td>
     </tr>
     <tr>
-      <td>Empty Bin</td>
+      <td>LU Clutch Plate</td>
+      <td>8%</td>
+      <td>Gurgaon > Ahmedabad</td> 
+    </tr>
+    <tr>
+      <td>Retorno Vazio</td>
       <td>12%</td>
-      <td>–</td> <!-- Caso não tenha rota principal -->
+      <td>Todas as rotas principais</td>
     </tr>
   </tbody>
 </table>
@@ -130,20 +135,22 @@ Recomendação:
   <tbody>
     <tr>
       <td>Ashok Leyland Limited</td>
-      <td>Daimler India Commercial Vehicles</td>
-      <td>Lucas TVS Ltd</td>
-      <td>Ford India Private Limited</td>
-    </tr>
-    <tr>
       <td>25%</td>
-      <td>20%</td>
-      <td>15%</td>
-      <td>10%</td>
+      <td>Peças automotivas</td>
     </tr>
     <tr>
-      <td>Peças automotivas</td>
-      <td>Componentes de caminhões</td>
+      <td>Daimler India Commercial Vehicles</td>
+      <td>20%</td>
+      <td>Componentes de caminhões</td>    
+    </tr>
+    <tr>
+      <td>Lucas TVS Ltd</td>
+      <td>15%</td>
       <td>Peças elétricas</td>
+    </tr>
+    <tr>
+      <td>Ford India Private Limited</td>
+      <td>10%</td>
       <td>Componentes de montagem</td>
     </tr>
   </tbody>
@@ -168,20 +175,22 @@ Recomendação:
   <tbody>
     <tr>
       <td>VJ Logistics</td>
-      <td>SR Transports</td>
-      <td>Arvinth Transport</td>
-      <td>EKTA Transport Company</td>
-    </tr>
-    <tr>
       <td>18%</td>
-      <td>15%</td>
-      <td>12%</td>
-      <td>10%</td>
+      <td>Kanchipuram > Kanchipuram</td>
     </tr>
     <tr>
-      <td>	Kanchipuram > Kanchipuram</td>
+      <td>SR Transports</td>
+      <td>15%</td>
       <td>Pondicherry > Chennai</td>
+    </tr>
+    <tr>
+      <td>KArvinth Transport</td>
+      <td>12%</td>
       <td>Chennai > Hosur</td>
+    </tr>
+    <tr>
+      <td>EKTA Transport Company</td>
+      <td>10%</td>
       <td>Rotas interestaduais longas</td>
     </tr>
   </tbody>
