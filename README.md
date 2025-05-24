@@ -24,17 +24,17 @@ Este relatório analisa dados operacionais de frota de caminhões para identific
 
 ## 🔗 Links
 
-- Dashboard do Power BI: Acesse
+- Dashboard do Power BI: <a href="https://app.powerbi.com/view?r=eyJrIjoiZmZkMDlhYWMtYTExYS00YWVjLWEwMzAtYTQ1NDNiMTJiMDcxIiwidCI6IjBjM2IyYzljLWVlYTctNDJlZi04YTYzLTcwOWIyNjU5NzYxOCJ9"> Acesse </a>
 
-- Dashboard em Python (Dash): Dashboard
+- Dashboard em Python (Dash): <a href="https://github.com/RastaDados/TransBrasil/blob/main/Dashboard%20em%20Python.md"> Acesse </a>
 
-- Apresentação (Business Analysis): Apresentação
+- Apresentação (Business Analysis): <a href="https://github.com/RastaDados/TransBrasil/blob/main/An%C3%A1lise%20de%20Mercado.md">Acesse</a>
 
-- Dashboards e Códigos Utilizados neste Projeto: Acesse
+- Dashboards e Códigos Utilizados neste Projeto: <a href="https://github.com/RastaDados/TransBrasil/tree/main/Dashboards"> Acesse </a>
 
 <hr>
 <br>
 
 ## ✍️ Autor
 
-- Mateus França -
+- Mateus França - <a href="https://www.linkedin.com/in/mateus-fran%C3%A7a-775b57113/"> Acesse </a>
